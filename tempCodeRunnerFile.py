@@ -1,2 +1,1 @@
-for i in range(10):
-    print(11 * i)
+    for contador in range(0, 100):
